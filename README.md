@@ -14,7 +14,6 @@ assets/
 includes/
   widgets/
     /hello-world.php
-    /inline-editing.php
 
 index.php
 elema-addons.php
